@@ -218,15 +218,16 @@
 			</div>
 
 			<!-- 页面标签脚本 -->
+
 			<script>
 				var OriginTitile = document.title;
 				var titleTime;
 				document.addEventListener('visibilitychange', function() {
 					if (document.hidden) {
-						document.title = '你看不见我...你看不见我...你看不见我...';
+						document.title = '隐秘籍——土遁';
 						clearTimeout(titleTime);
 					} else {
-						document.title = '还是被发现了';
+						document.title = '阿嘞嘞～～';
 						titleTime = setTimeout(function() {
 							document.title = OriginTitile;
 						}, 2000);
@@ -234,9 +235,11 @@
 				});
 			</script>
 
-			
+
+
+
 			<!-- 指针脚本 -->
-			<script src="//lib.baomitu.com/layer/3.1.1/layer.js"></script>
+			<!-- <script src="//lib.baomitu.com/layer/3.1.1/layer.js"></script>
 			<script type="text/javascript"> 
     		var a_idx = 0; 
     		jQuery(document).ready(function($) { 
@@ -265,7 +268,7 @@
            		 }); 
        			 });		 
     		}); 
-   			</script>
+   			</script> -->
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
