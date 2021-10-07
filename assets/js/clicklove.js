@@ -1,20 +1,3 @@
-// title脚本
-var OriginTitile = document.title;
-var titleTime;
-document.addEventListener('visibilitychange', function() {
-    if (document.hidden) {
-        document.title = '隐秘籍——土遁';
-        clearTimeout(titleTime);
-    } else {
-        document.title = '阿嘞嘞～～';
-        titleTime = setTimeout(function() {
-            document.title = OriginTitile;
-        }, 2000);
-    }
-});
-
-
-// clicklove脚本
 ! function (e, t, a) {
     function n() {
       c(".heart{width: 10px;height: 10px;position: fixed;background: #f00;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);}.heart:after,.heart:before{content: '';width: inherit;height: inherit;background: inherit;border-radius: 50%;-webkit-border-radius: 50%;-moz-border-radius: 50%;position: fixed;}.heart:after{top: -5px;}.heart:before{left: -5px;}"), o(), r()
