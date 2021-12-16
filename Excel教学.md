@@ -99,13 +99,13 @@ Ctrl+Z	撤销操作
 
 ###### 行列冻结
 
-![](D:\桌面\excel讲解\行列冻结.png)
+![](/Users/ace/Documents/GitHub/Niobox.github.io/行列冻结.png)
 
 
 
 ###### 批量填充
 
-![](D:\桌面\excel讲解\批量填充.gif)
+![](/Users/ace/Documents/GitHub/Niobox.github.io/批量填充.gif)
 
 
 
