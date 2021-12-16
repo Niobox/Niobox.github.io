@@ -3,10 +3,10 @@ var OriginTitile = document.title;
 var titleTime;
 document.addEventListener('visibilitychange', function() {
     if (document.hidden) {
-        document.title = '隐秘籍——土遁';
+        document.title = '记得随手关闭';
         clearTimeout(titleTime);
     } else {
-        document.title = '阿嘞嘞～～';
+        document.title = '你又来了啊';
         titleTime = setTimeout(function() {
             document.title = OriginTitile;
         }, 2000);
