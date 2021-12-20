@@ -99,15 +99,17 @@ Ctrl+Z	撤销操作
 
 ###### 行列冻结
 
-![](/Users/ace/Documents/GitHub/Niobox.github.io/行列冻结.png)
+![](/Users/ace/Documents/GitHub/Niobox.github.io/images/gif/行列冻结.gif)
 
 
 
 ###### 批量填充
 
-![](/Users/ace/Documents/GitHub/Niobox.github.io/批量填充.gif)
+![](/Users/ace/Documents/GitHub/Niobox.github.io/images/gif/批量填充.gif)
 
+###### 下拉列表
 
+![](/Users/ace/Documents/GitHub/Niobox.github.io/images/gif/下拉列表.gif)
 
 ## 实例参考
 
